@@ -36,10 +36,13 @@ Link del video: [Video](https://www.youtube.com/watch?v=Trk73cb1E_k)
 2) Buscar la variable TOKEN al inicio del archivo `main.py` y cambiarlo por el Token que te da el `BotFather`
 3) Disfruta el bot.
 
-
-
 # `Creacion y uso`
 Este bot fue creado por Michel Villot para poder ayudar a los que estan en constante busqueda de empleo, su uso es netamente para poder obtener los anuncios de una manera mas rapida y en una plataforma de mensajeria que es usada mundialmente.
+
+# `Imagenes`:
+![Diapositiva1](https://github.com/MichelVillot/Telegram_LaboralBOT/assets/107226318/f13557b9-9a1d-4eae-8f6f-986076fbbd39)
+![Diapositiva2](https://github.com/MichelVillot/Telegram_LaboralBOT/assets/107226318/c5cae080-e1ec-4dbe-896a-7526e7788f29)
+
 
 
 
