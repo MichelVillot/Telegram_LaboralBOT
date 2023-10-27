@@ -23,7 +23,8 @@ from sqlalchemy.ext.declarative import declarative_base
 
 
 #Token para nuestro BOT
-TOKEN = "6772273825:AAGnPYIPb31dWb_Kwz6Tti3zQOGN0OLp4TU"
+TOKEN = "Tu_token"
+
 
 #INSTANCIAMOS el bot
 bot = telebot.TeleBot(TOKEN)
