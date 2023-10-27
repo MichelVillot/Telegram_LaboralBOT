@@ -178,7 +178,7 @@ def ws_getonboard(palabra_clave):
         cargo_10, postulaciones_10, salario_10, lugar_10, skills_10, empresa_10, link_10 = df.loc[9, ["cargo", "postulaciones", "rango_salario", "ubicacion", "senority", "empresa", "link"]]
 
             #retornamos los 10 primeros cargos.
-    return f"ANUNCIO 1: \nCargo: {cargo_1} \nPostulaciones: {postulaciones_1} \nSalario: {salario_1} \nLugar de Trabajo: {lugar_1} \nSenority: {skills_1} \nEmpresa: {empresa_1} \nLink {link_1}\n\n\
+return f"ANUNCIO 1: \nCargo: {cargo_1} \nPostulaciones: {postulaciones_1} \nSalario: {salario_1} \nLugar de Trabajo: {lugar_1} \nSenority: {skills_1} \nEmpresa: {empresa_1} \nLink {link_1}\n\n\
                 ANUNCIO 2: \nCargo: {cargo_2} \nPostulaciones: {postulaciones_2}  \nSalario: {salario_2} \nLugar de Trabajo: {lugar_2} \nSenority: {skills_2}  \nEmpresa: {empresa_2} \nLink: {link_2}\n\n\
                 ANUNCIO 3: \nCargo: {cargo_3} \nPostulaciones: {postulaciones_3}  \nSalario: {salario_3} \nLugar de Trabajo: {lugar_3} \nSenority: {skills_3}  \nEmpresa: {empresa_3} \nLink: {link_3}\n\n\
                 ANUNCIO 4: \nCargo: {cargo_4} \nPostulaciones: {postulaciones_4}  \nSalario: {salario_4} \nLugar de Trabajo: {lugar_4} \nSenority: {skills_4}  \nEmpresa: {empresa_4} \nLink: {link_4}\n\n\
