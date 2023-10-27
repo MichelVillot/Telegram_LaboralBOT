@@ -1,6 +1,6 @@
 # `LaboralBot - Busqueda de empleo en Tiempo Real`
 
-## `Introduccion`
+# `Introduccion`
 
 Se lo dificil que es buscar trabajo, pasar de un portal a otro, de una app a otra y que siempre tengas que entrar en cada link para ver que hay dentro de ese anuncio (resultando tanto tedioso como un poco abrumador) como es algo que me sucedia a mi decidi hacer algo y encontre la forma de hacerlo... Y es por ello que llegue a la conclusion de crear un Bot que pudiera activarse y hacer la busqueda por mi. Es aqui donde entra `LaboralBOT`.
 
@@ -16,7 +16,10 @@ Los archivos que se encuentran en este repositorio son los siguientes:
 * getonboard_anuncios_chile.py > El cual contiene la funcion que realiza el web scraping en tiempo real.
 * main.py > El archivo main donde se ejecutan las funciones y el codigo que genera la conversacion entre el usuario y el BOT.
 
-# `
+# `Stack y librerias`
+Se utiliza Python para realizar la creacion del Bot asi como el proceso de Web Scraping, a su vez se utiliza MySQL para poder guardar la informacion de todos los pasos que realiza el usuario en pro de tener datos para mejorar el BOT.
+
+Librerias
 
 # `Video - Tutorial`
 Link del video: [Video](https://www.youtube.com/watch?v=Trk73cb1E_k)
