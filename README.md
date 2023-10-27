@@ -20,14 +20,20 @@ Los archivos que se encuentran en este repositorio son los siguientes:
 Se utiliza Python para realizar la creacion del Bot asi como el proceso de Web Scraping, a su vez se utiliza MySQL para poder guardar la informacion de todos los pasos que realiza el usuario en pro de tener datos para mejorar el BOT.
 
 Librerias:
+* `Telebot` > Libreria para crear el BOT de Telegram 
 * `Pandas` > Para realizar la manipulacion de los datos, la limpieza de los mismos.
 * `Requests` > Para realizar la conexion con la pagina web y asi extraer la informacion en formato HTML
 * `BeautifullSoup` > Para realizar web scraping y extraer los tags, class del formato HTML de la pagina web.
 * `Time` > Para fecha y hora del proceso.
 * `SqlAlchemy` > Para realizar la conexion entre VSCode y MySQL, y asi almacenar toda la informacion del usuario.
 
+
 # `Video - Tutorial`
 Link del video: [Video](https://www.youtube.com/watch?v=Trk73cb1E_k)
+
+# `Implementacion`
+En caso que quieras emular este bot debes crear un Bot de Telegram. 
+[Video Tutorial](https://www.youtube.com/watch?v=wxOeEb2ElSU) Minuto 00:00 al 02:07
 
 
 
