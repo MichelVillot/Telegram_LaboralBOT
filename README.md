@@ -28,12 +28,15 @@ Librerias:
 * `SqlAlchemy` > Para realizar la conexion entre VSCode y MySQL, y asi almacenar toda la informacion del usuario.
 
 
-# `Video - Tutorial`
+# `Video - Tutorial de como usar LaboralBOT`
 Link del video: [Video](https://www.youtube.com/watch?v=Trk73cb1E_k)
 
-# `Implementacion`
-En caso que quieras emular este bot debes crear un Bot de Telegram. 
-[Video Tutorial](https://www.youtube.com/watch?v=wxOeEb2ElSU) Minuto 00:00 al 02:07.
+# `Implementacion del repositorio`
+1) En caso que quieras emular este bot debes crear un Bot de Telegram.  [Video Tutorial](https://www.youtube.com/watch?v=wxOeEb2ElSU) Minuto 00:00 al 02:07.
+2) Buscar la variable TOKEN al inicio del archivo `main.py` y cambiarlo por el Token que te da el `BotFather`
+3) Disfruta el bot.
+
+
 
 # `Creacion y uso`
 Este bot fue creado por Michel Villot para poder ayudar a los que estan en constante busqueda de empleo, su uso es netamente para poder obtener los anuncios de una manera mas rapida y en una plataforma de mensajeria que es usada mundialmente.
