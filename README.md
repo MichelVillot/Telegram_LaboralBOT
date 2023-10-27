@@ -11,5 +11,8 @@ LaboralBot es un Bot creado en telegram para poder realizar una busqueda en tiem
 LaboralBot realiza la busqueda del cargo que el usuario digite, una vez que el usuario digita el cargo el bot se activa y realiza un proceso de web scraping en tiempo real (en el portal que selecciono) dando como resultado una lista con los 10 anuncios mas recientes en el portal para el cargo que fue digitado.
 
 
+# `Video`
+Link del video: [Video](https://www.youtube.com/watch?v=Trk73cb1E_k)
+
 
 
